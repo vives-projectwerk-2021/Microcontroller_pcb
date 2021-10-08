@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "S-1318B33-M5T1U4"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-24-08:28:12)
+    (mountForm default
+        (footprintRef "SOT95P275X130-5N")
+        (spec "System")
+    )
+)

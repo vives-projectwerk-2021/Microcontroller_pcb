@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model S-1318B33-M5T1U4
+#/11410894/477504/2.49/5/3/Power Supply
+DEF S-1318B33-M5T1U4 PS 0 30 Y Y 1 F N
+F0 "PS" 1050 300 50 H V L CNN
+F1 "S-1318B33-M5T1U4" 1050 200 50 H V L CNN
+F2 "SOT95P275X130-5N" 1050 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/S-1318B33-M5T1U4.pdf" 1050 0 50 H I L CNN
+F4 "LDO Voltage Regulators 5.5V Input 100mA 95 nA 3.3V Output" 1050 -100 50 H I L CNN "Description"
+F5 "1.3" 1050 -200 50 H I L CNN "Height"
+F6 "ABLIC Inc." 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "S-1318B33-M5T1U4" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "628-S-1318B33-M5T1U4" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=628-S-1318B33-M5T1U4" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VIN 1 0 0 200 R 50 50 0 0 W
+X VSS 2 0 -100 200 R 50 50 0 0 W
+X ON/OFF 3 0 -200 200 R 50 50 0 0 I
+X NC 4 1200 0 200 L 50 50 0 0 N
+X VOUT 5 1200 -100 200 L 50 50 0 0 O
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

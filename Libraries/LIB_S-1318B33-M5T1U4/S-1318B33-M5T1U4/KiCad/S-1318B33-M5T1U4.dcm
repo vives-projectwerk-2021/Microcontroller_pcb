@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S-1318B33-M5T1U4
+D LDO Voltage Regulators 5.5V Input 100mA 95 nA 3.3V Output
+K
+F https://componentsearchengine.com/Datasheets/1/S-1318B33-M5T1U4.pdf
+$ENDCMP
+#
+#End Doc Library

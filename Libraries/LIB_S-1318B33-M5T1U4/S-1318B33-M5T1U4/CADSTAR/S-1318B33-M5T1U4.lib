@@ -1,0 +1,18 @@
+.S-1318B33-M5T1U4 :1 ;LDO Voltage Regulators 5.5V Input 100mA 95 nA 3.3V Output
+SOT95P275X130-5N
+*STM PS
+*NGS
+*PLB 1="VIN" 2="VSS" 3="ON/OFF" 4="NC" 5="VOUT"
+*MXP 5
+*DFN S-1318B33-M5T1U4
+~!Manufacturer_Name (ABLIC Inc.)
+~!Manufacturer_Part_Number (S-1318B33-M5T1U4)
+~!Mouser Part Number (628-S-1318B33-M5T1U4)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=628-S-1318B33-M5T1U4)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/S-1318B33-M5T1U4.pdf)
+~!Height (1.3mm)
+~!3D_Model (S-1318B33-M5T1U4)
+S-1318B33-M5T1U4
+1.1!P 2.1!G 3.1!I 4.1!U 5.1!Y 

@@ -1,0 +1,18 @@
+.24AA64T-I_OT :1 ;Microchip 24AA64T-I/OT EEPROM Memory, 64kb, 3500ns, 1.7  5.5 V 5-Pin SOT-23
+SOT95P270X145-5N
+*STM IC
+*NGS
+*PLB 1="SCL" 2="VSS" 3="SDA" 4="VCC" 5="WP"
+*MXP 5
+*DFN 24AA64T-I_OT
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (24AA64T-I/OT)
+~!Mouser Part Number (579-24AA64T-I/OT)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=579-24AA64T-I%2FOT)
+~!Arrow Part Number (24AA64T-I/OT)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/24aa64t-iot/microchip-technology)
+~!Link Datasheet (http://ww1.microchip.com/downloads/en/DeviceDoc/21189R.pdf)
+~!Height (1.45mm)
+~!3D_Model (24AA64T-I_OT)
+"24AA64T-I_OT"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
