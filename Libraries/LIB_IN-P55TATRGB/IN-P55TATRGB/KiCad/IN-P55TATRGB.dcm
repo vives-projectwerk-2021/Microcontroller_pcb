@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IN-P55TATRGB
+D Standard LEDs - SMD RGB LED
+K
+F http://www.inolux-corp.com/datasheet/SMDLED/RGB%20Top%20View/IN-P55TATRGB.pdf
+$ENDCMP
+#
+#End Doc Library

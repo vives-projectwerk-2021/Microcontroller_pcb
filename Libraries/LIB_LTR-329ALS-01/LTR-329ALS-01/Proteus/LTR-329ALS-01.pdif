@@ -1,0 +1,132 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LTR-329ALS-01"
+   (description "Ambient Light Sensors Ambient Light Photo Sensor")
+   (family "ANA")
+   (package "LTR329ALS01")
+   (attribute "Datasheet Link" "http://www.mouser.com/ds/2/239/liteon_LTR-329ALS-01-1175539.pdf")
+   (attribute "Geometry.Height" "0mm")
+   (attribute "Manufacturer_Name" "Lite-On")
+   (attribute "Manufacturer_Part_Number" "LTR-329ALS-01")
+   (attribute "Mouser Part Number" "859-LTR-329ALS-01")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTR-329ALS-01?qs=Ml%2FaxAEbwm8eHg8LIDPUrw%3D%3D")
+   (attribute "Arrow Part Number" "LTR-329ALS-01")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/ltr-329als-01/lite-on-technology")
+   (gate
+    (symbol "LTR-329ALS-01")
+    (pin "VDD" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "SDA" 3 PS)
+    (pin "SCL" 4 PS)
+   )
+  )
+  (symbol "LTR-329ALS-01"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "LTR329ALS01"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1 1.275)
+      (pt 1 1.275)
+      (pt 1 -0.725)
+      (pt -1 -0.725)
+      (pt -1 1.275))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.5 1.825)
+      (pt 1.5 1.825)
+      (pt 1.5 -1.825)
+      (pt -1.5 -1.825)
+      (pt -1.5 1.825))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.1 1.275)
+      (pt 0.1 1.275))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1 0.375)
+      (pt -1 0.175))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1 0.375)
+      (pt 1 0.175))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.1 -0.725)
+      (pt 0.1 -0.725))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.8 -1.225)
+      (arc (pt -0.800 -1.225) (pt -0.800 -1.325) (pt -0.600 -1.125) (start -180.0) (sweep 180.0))
+      (pt -0.6 -1.225)
+      (arc (pt -0.600 -1.225) (pt -0.800 -1.325) (pt -0.600 -1.125) (start -180.0) (sweep .0))
+      (pt -0.8 -1.225))))
+   (leg 1 (pt -0.600 -0.400) (padstack 0))
+   (leg 2 (pt 0.600 -0.400) (padstack 0))
+   (leg 3 (pt 0.600 0.950) (padstack 0))
+   (leg 4 (pt -0.600 0.950) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.700 0.750 0 0 90.000))
+   )
+  )
+ )
+)

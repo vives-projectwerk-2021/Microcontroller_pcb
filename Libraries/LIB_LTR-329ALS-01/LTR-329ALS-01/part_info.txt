@@ -1,0 +1,9 @@
+Manufacturer=Lite-On
+PartNumber=LTR-329ALS-01
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2018-01-11 15:54:03
+Downloaded=2021-10-08 11:12:26
+3D=N

@@ -1,0 +1,9 @@
+Manufacturer=Inolux
+PartNumber=IN-P55TATRGB
+PartCategory=LED
+PackageCategory=Other
+PinCount=6
+Version=1.1
+Released=2019-03-01 12:06:04
+Downloaded=2021-10-08 11:22:32
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=TCN75AVUA713-VAO
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2020-04-02 07:37:06
+Downloaded=2021-10-08 11:02:19
+3D=Y

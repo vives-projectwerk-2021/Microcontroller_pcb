@@ -1,0 +1,17 @@
+.LTR-329ALS-01 :1 ;Ambient Light Sensors Ambient Light Photo Sensor
+LTR329ALS01
+*STM U
+*NGS
+*PLB 1="VDD" 2="GND" 3="SDA" 4="SCL"
+*MXP 4
+*DFN LTR-329ALS-01
+~!Manufacturer_Name (Lite-On)
+~!Manufacturer_Part_Number (LTR-329ALS-01)
+~!Mouser Part Number (859-LTR-329ALS-01)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Lite-On/LTR-329ALS-01?qs=Ml%2FaxAEbwm8eHg8LIDPUrw%3D%3D)
+~!Arrow Part Number (LTR-329ALS-01)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ltr-329als-01/lite-on-technology)
+~!Link Datasheet (http://www.mouser.com/ds/2/239/liteon_LTR-329ALS-01-1175539.pdf)
+~!Height (0mm)
+LTR-329ALS-01
+1.1!U 2.1!U 3.1!U 4.1!U 

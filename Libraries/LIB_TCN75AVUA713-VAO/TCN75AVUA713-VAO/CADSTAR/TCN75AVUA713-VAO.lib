@@ -1,0 +1,18 @@
+.TCN75AVUA713-VAO :1 ;Board Mount Temperature Sensors Automotive, 2-Wire Serial Temp Sensor/Thermal Monitor
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="SDA" 2="SCL" 3="ALERT" 4="GND" 5="A2" 6="A1" 7="A0" 8="VDD"
+*MXP 8
+*DFN TCN75AVUA713-VAO
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (TCN75AVUA713-VAO)
+~!Mouser Part Number (579-TCN75AVUA713-VAO)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/TCN75AVUA713-VAO?qs=5aG0NVq1C4yOgnS8t5srmQ%3D%3D)
+~!Arrow Part Number (TCN75AVUA713-VAO)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tcn75avua713-vao/microchip-technology)
+~!Link Datasheet (http://ww1.microchip.com/downloads/en/DeviceDoc/21935D.pdf)
+~!Height (1.1mm)
+~!3D_Model (TCN75AVUA713-VAO)
+TCN75AVUA713-VAO
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IN_P55TATRGB'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Inolux", "IN-P55TATRGB" (!) = "", "INP55TATRGB", "Other", "743-IN-P55TATRGB", "https://www.mouser.co.uk/ProductDetail/Inolux/IN-P55TATRGB?qs=fAHHVMwC%252BbjmM0iMDYvL2g%3D%3D", "", "", "Standard LEDs - SMD RGB LED", "http://www.inolux-corp.com/datasheet/SMDLED/RGB%20Top%20View/IN-P55TATRGB.pdf", "1.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "INP55TATRGB"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "INP55TATRGB")
+        (spec "default")
+    )
+)

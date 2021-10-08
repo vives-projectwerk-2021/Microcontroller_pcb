@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LTR-329ALS-01
+#/794039/477504/2.49/4/4/Undefined or Miscellaneous
+DEF LTR-329ALS-01 U 0 30 Y Y 1 F N
+F0 "U" 850 300 50 H V L CNN
+F1 "LTR-329ALS-01" 850 200 50 H V L CNN
+F2 "LTR329ALS01" 850 100 50 H I L CNN
+F3 "http://www.mouser.com/ds/2/239/liteon_LTR-329ALS-01-1175539.pdf" 850 0 50 H I L CNN
+F4 "Ambient Light Sensors Ambient Light Photo Sensor" 850 -100 50 H I L CNN "Description"
+F5 "0" 850 -200 50 H I L CNN "Height"
+F6 "Lite-On" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LTR-329ALS-01" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "859-LTR-329ALS-01" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Lite-On/LTR-329ALS-01?qs=Ml%2FaxAEbwm8eHg8LIDPUrw%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "LTR-329ALS-01" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ltr-329als-01/lite-on-technology" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VDD 1 0 -100 200 R 50 50 0 0 P
+X GND 2 1000 -100 200 L 50 50 0 0 P
+X SDA 3 1000 0 200 L 50 50 0 0 P
+X SCL 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,18 @@
+.IN-P55TATRGB :1 ;Standard LEDs - SMD RGB LED
+INP55TATRGB
+*STM LED
+*NGS
+*PLB 1="CATHODE BLUE" 2="CATHODE RED" 3="CATHODE GREEN" 4="ANODE GREEN" 5="ANODE RED" 6="ANODE BLUE"
+*MXP 6
+*DFN IN-P55TATRGB
+~!Manufacturer_Name (Inolux)
+~!Manufacturer_Part_Number (IN-P55TATRGB)
+~!Mouser Part Number (743-IN-P55TATRGB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Inolux/IN-P55TATRGB?qs=fAHHVMwC%252BbjmM0iMDYvL2g%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.inolux-corp.com/datasheet/SMDLED/RGB%20Top%20View/IN-P55TATRGB.pdf)
+~!Height (1.5mm)
+~!3D_Model (IN-P55TATRGB)
+IN-P55TATRGB
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

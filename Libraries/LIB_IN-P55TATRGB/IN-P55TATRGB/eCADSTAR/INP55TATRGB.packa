@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IN-P55TATRGB"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-03-01-12:06:04)
+    (mountForm default
+        (footprintRef "INP55TATRGB")
+        (spec "System")
+    )
+)
