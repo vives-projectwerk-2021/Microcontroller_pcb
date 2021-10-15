@@ -1,0 +1,9 @@
+Manufacturer=Keystone Electronics
+PartNumber=1013
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2017-12-19 16:30:32
+Downloaded=2021-10-15 14:45:51
+3D=Y

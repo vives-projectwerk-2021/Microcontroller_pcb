@@ -1,0 +1,18 @@
+.1013 :1 ;KEYSTONE - 1013 - BATTERY HOLDER, AA, THROUGH HOLE
+"1013"
+*STM U
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 5
+*DFN 1013
+~!Manufacturer_Name (Keystone Electronics)
+~!Manufacturer_Part_Number (1013)
+~!Mouser Part Number (534-1013)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1013?qs=%2F7TOpeL5Mz787Zw6AZiIzA%3D%3D)
+~!Arrow Part Number (1013)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/1013/keystone-electronics)
+~!Link Datasheet (http://www.keyelco.com/product-pdf.cfm?p=923)
+~!Height (14mm)
+~!3D_Model (1013)
+"1013"
+1.1!U 2.1!U 3.1!U 4.1!U 

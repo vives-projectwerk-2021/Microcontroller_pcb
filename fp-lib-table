@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Dual_AA")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Dual_AA/Dual_AA.pretty")(options "")(descr ""))
   (lib (name "24AA64T-I_OT")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_24AA64T-I_OT/24AA64T-I_OT/KiCad")(options "")(descr ""))
+  (lib (name "logo's")(type "KiCad")(uri "${KIPRJMOD}/logo's")(options "")(descr ""))
 )
