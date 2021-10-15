@@ -1441,6 +1441,11 @@
       (net 56 "unconnected-(U5-Pad7)") (pinfunction "NC") (pintype "no_connect") (tstamp d2e133e5-7248-4f6e-b329-4cc94d674e97))
     (pad "8" smd rect locked (at 2.4638 -1.905) (size 1.9812 0.5588) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "VCC") (pinfunction "VCC") (pintype "power_in") (tstamp 12ed95c0-955b-4d8e-8f9f-ccfa99280b29))
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.35x2.35mm.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
