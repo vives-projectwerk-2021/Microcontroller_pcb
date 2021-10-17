@@ -5797,7 +5797,7 @@
     (property "Value" "Conn_01x08" (id 1) (at 327.66 142.2399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical" (id 2) (at 334.01 153.67 0)
+    (property "Footprint" "Connector_Molex:Molex_Micro-Latch_53253-0870_1x08_P2.00mm_Vertical" (id 2) (at 334.01 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 334.01 153.67 0)
@@ -5818,7 +5818,7 @@
     (uuid 4c2589f5-6376-48ce-98db-462c0484826b)
     (property "Reference" "J6" (id 0) (at 346.0115 139.7 0))
     (property "Value" "Conn_01x08" (id 1) (at 346.0115 142.24 0))
-    (property "Footprint" "Connector_JST:JST_EH_S8B-EH_1x08_P2.50mm_Horizontal" (id 2) (at 344.17 156.21 0)
+    (property "Footprint" "Connector_Molex:Molex_Micro-Latch_53253-0870_1x08_P2.00mm_Vertical" (id 2) (at 344.17 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 344.17 156.21 0)
@@ -6648,10 +6648,10 @@
       (reference "J4") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/cb3aca7e-8766-46d7-af6a-1e4b8da68729"
-      (reference "J5") (unit 1) (value "Conn_01x08") (footprint "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical")
+      (reference "J5") (unit 1) (value "Conn_01x08") (footprint "Connector_Molex:Molex_Micro-Latch_53253-0870_1x08_P2.00mm_Vertical")
     )
     (path "/4c2589f5-6376-48ce-98db-462c0484826b"
-      (reference "J6") (unit 1) (value "Conn_01x08") (footprint "Connector_JST:JST_EH_S8B-EH_1x08_P2.50mm_Horizontal")
+      (reference "J6") (unit 1) (value "Conn_01x08") (footprint "Connector_Molex:Molex_Micro-Latch_53253-0870_1x08_P2.00mm_Vertical")
     )
     (path "/c75b443c-d4e7-4644-a8d9-c7a2ddb573ca"
       (reference "JP1") (unit 1) (value "20021521-00010T1LF") (footprint "20021521-00010T1LF:20021521-00010T1LF")
