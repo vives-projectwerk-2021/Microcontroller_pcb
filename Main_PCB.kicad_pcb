@@ -6266,7 +6266,7 @@
     (property "Sheetname" "")
     (path "/487d5fe6-8085-491a-ac04-1ec387ff015e")
     (attr smd)
-    (fp_text reference "SW3" (at 0 -3.75) (layer "F.SilkS")
+    (fp_text reference "button1" (at 0 -3.75) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp da80ae99-eb5a-4f6e-954f-dbffa546a0dc)
     )
