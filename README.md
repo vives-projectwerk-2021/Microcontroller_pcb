@@ -4,8 +4,8 @@ Kicad files for our microcontroller pcb
 
 ## Schematic
 
-In the picture below you can see the schematic off the main board
-![Schematic](./img/Main_PCB.svg)
+You can see the updated schematic of our main board in the picture below
+![Schematic](./img/Main_PCB_V1.2.svg)
 
 ## Pictures
 
